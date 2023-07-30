@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  Pods
+
+  Created by Martin Sorsok on 5/19/19.
+  
+*/
+"pointsName" = "Points: ";
+"pts" = " pts";
+"RankPointsName" = "Frubies: ";
+"NextLevelText" = "Next level at";
+
+"LeaderboardTitle" = "Leaderboard" ;
+"AchievementTitle" = "Badges";
+"MissionsTitle" = "Missions";
+"achievementDescription" = "This is your badges board, collect badges and get their rewards.";
+"missionsDescription" = "Complete the below missions for a chance to win their rewards.";
+
+"GameballFooterText" = "we run on";
+
+"Welcome" = "Welcome ";
+"You are on level" = "You are on level";
+"Challenges" = "Challenges";
+
+
+
+"Your rank" = "Your rank";
+"Score" = "Frubies";
+"Copy" = "Share";
+
+"Status" = "Status";
+"Times" = "time(s)";
+
+"Locked" = "Locked";
+"Achieved" = "Achieved";
+"Keep going" = "Keep going";
+"You need to be on" = "You need to be on";
+"to unlock this challenge" = "to unlock this challenge";
+
+"Progress" = "Progress";
+
+"Track your progress here" = "Track your progress here";
+"High Score" = "High Score";
+"Your high score is" = "Your high score is";
+"Break your high score and win this badge again!" = "Break your high score and win this badge again!";
+"friend(s) remaining to achieve this badge" = "friend(s) remaining to achieve this badge";
+"You need to exceed the minimum record," = "You need to exceed the minimum record,";
+"Notifications" = "Notifications";
+"NoNotifications" = "No notifications";
+
+

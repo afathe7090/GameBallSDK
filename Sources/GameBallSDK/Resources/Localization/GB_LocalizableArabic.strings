@@ -1,0 +1,41 @@
+/* 
+  LocalizableArabic.strings
+  Pods
+
+  Created by Martin Sorsok on 5/20/19.
+  
+*/
+"pts" = " نقاط";
+"pointsName" = "نقاط: ";
+"RankPointsName" = "نقاط الترتيب: ";
+"NextLevelText" = "المستوى التالي بعد تجميع"; 
+
+"LeaderboardTitle" = "قائمة المتصدرين" ;
+"AchievementTitle" = "الإنجازات";
+"MissionsTitle" = "مهمات";
+"achievementDescription" = "هذا هو لوحة الشارات الخاصة بك ، وجمع الشارات والحصول على مكافآتهم.";
+"missionsDescription" = "أكمل المهام أدناه للحصول على فرصة للفوز بمكافآتهم.";
+"Challenges" = "تحديات";
+
+"GameballFooterText" = "مقدم بواسطة";
+"Welcome" =  "مرحباً ";
+"You are on level" = "المستوى الحالي هو";
+"Your rank" = "ترتيبك الحالي";
+"Score" = "نقاط الترتيب";
+"Copy" = "نسخ";
+"Status" = "الحالة";
+"Times" = "مرة (مرات)";
+"Locked" = "مغلق";
+"Achieved" = "حقق";
+"Keep going" = "واصل التقدم";
+"You need to be on" = "عليك أن تكون على";
+"to unlock this challenge" = "لفتح هذا التحدي";
+"Progress" = "التقدم";
+"Track your progress here" = "تتبع التقدم المحرز الخاص بك هنا";
+"High Score" = "درجة عالية";
+"Your high score is" = "درجاتك عالية هي";
+"Break your high score and win this badge again!" = "كسر درجاتك العالية والفوز في هذه الشارة مرة أخرى!";
+"friend(s) remaining to achieve this badge" = "الأصدقاء (الأصدقاء) المتبقين لتحقيق هذه الشارة";
+"You need to exceed the minimum record," = "تحتاج إلى تجاوز الحد الأدنى للسجل ،";
+"Notifications" = "إخطارات";
+"NoNotifications" = "لا إشعارات";
